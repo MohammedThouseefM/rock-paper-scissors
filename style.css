@@ -16,6 +16,7 @@ body{
     width: 90%;
     height: auto;
     background-color: #5184f0;
+    box-shadow: 4px 4px 10px rgb(69, 100, 201);
 }
 
 h1{
@@ -67,10 +68,11 @@ h1{
 input[type="button"]{
     margin: 2%;
     width: 90px;
-    min-height: 30px;
+    min-height: 40px;
     height: auto;
     border-radius: 20px;
     color: bisque;
     border: 1px solid rgb(4, 4, 107);
     background-color: rgb(3, 3, 114);
+    box-shadow: 4px 4px 10px rgb(24, 19, 56);
 }
